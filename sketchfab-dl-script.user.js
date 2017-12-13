@@ -7,7 +7,7 @@
 // @version        1.0
 //
 // Urls process this user script on
-// @include        /^https?://(www\.)?sketchfab\.com/show/.*$/
+// @include        /^https?://(www\.)?sketchfab\.com/models/.*$/
 // ==/UserScript==
  
 function getElementByXpath(path) {
